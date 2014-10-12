@@ -13,6 +13,7 @@ $(function() {
 			mapIsDisplayed = true;
 			//$("#openMapIcon").hide();
 			// show close map openMapIcon
+			//testestest
 		}
 		
 	});
